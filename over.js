@@ -13,7 +13,6 @@ class over extends Phaser.Scene {
         this.load.audio('success','music/win.mp3');
         this.load.audio('ussuccess','music/fail.mp3');
     }
-    
     create(){
         button1=this.sound.add('buttonmusic', {volume: 0.3});//滑過去
         button2=this.sound.add('pressbutton', {volume: 0.5});
