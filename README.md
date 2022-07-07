@@ -9,4 +9,7 @@
 <br>
 <br>
 
+# <Strong>_使用方法_</Strong>
+1.git clone<br>
+2.打開html檔即可<br>
 
